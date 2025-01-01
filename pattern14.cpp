@@ -28,6 +28,6 @@ void pattern14(int n) {
 
 int main() {
     int n = 0;
-    pattern16(n);
+    pattern14(n);
     return 0;
   }
